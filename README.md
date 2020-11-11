@@ -5,10 +5,8 @@ Authors: Joshua Park, Kadir Mert Barutçuoğlu, and Kerem Gürel
 
 Accompanying slide deck: https://docs.google.com/presentation/d/1LM27nDPfq_Xdgz3iicmkNKdrmABz6M7kx5qBKVljT0k/edit?usp=sharing 
 
-1. npx create-react-app my-app
+1. React (frontend)
 
-2. React hooks
+2. Express and Node.js (backend)
 
-3. Basic Express server
-
-4. Firebase
+3. Firebase (database)
