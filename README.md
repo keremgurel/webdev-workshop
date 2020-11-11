@@ -3,7 +3,7 @@ Authors: Joshua Park, Kadir Mert Barutçuoğlu, and Kerem Gürel
 
 # Curriculum
 
-Accompanying slide deck: https://drive.google.com/file/d/1LhD-1HoIwoHvQES53wVL82zjTLZn_5_U/view?usp=sharing
+Accompanying slide deck: https://docs.google.com/presentation/d/1LM27nDPfq_Xdgz3iicmkNKdrmABz6M7kx5qBKVljT0k/edit?usp=sharing 
 
 1. npx create-react-app my-app
 
