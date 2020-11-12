@@ -11,7 +11,6 @@ function Header() {
     <div className="header">
       <div className="header__dehaze">
         <DehazeIcon className="header__dehazeIcon" />
-        {/* Logo */}
       </div>
 
       <div>
@@ -31,10 +30,10 @@ function Header() {
           <SearchIcon />
         </div>
 
-          <div className="header__optionBasket">
+        <div className="header__optionBasket">
             <LocalMallOutlinedIcon />
             {/* <span className="header_optionLine header__basketCount">0</span> */}
-          </div>
+        </div>
       </div>
     </div>
   );
