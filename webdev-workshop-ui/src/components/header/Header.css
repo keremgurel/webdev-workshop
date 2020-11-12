@@ -1,32 +1,44 @@
 .header {
-  height: 60px;
+  height: 80px;
   display: flex;
   align-items: center;
   background-color: white;
   position: sticky;
   top: 0;
   z-index: 100;
-  justify-content: space-evenly;
+  justify-content: space-between;
+}
+
+.header__dehaze {
+  padding: 20px 20px 20px 30px;
 }
 
 .header__logo {
-  width: 90px;
+  width: 120px;
   object-fit: contain;
   float: center;
-  margin: 0px 10px 0px;
 }
 
 .header__optionLine {
-  font-size: 12px;
+  font-size: 11px;
   color: grey;
-  margin-right: 10px;
 }
 
-.header__search {
-  display: flex;
-  flex: 1;
-  align-items: center;
-  border-radius: 24px;
+.header__expandIcon {
+  color: grey;
+  padding-top: 1px;
+}
+
+.header__accountIcon {
+  margin-left: 25px;
+}
+
+.header__searchIcon {
+  padding: 0px 15px 0px 15px;
+}
+
+.header__BasketIcon {
+  margin-right: 20px;
 }
 
 .header__nav {
